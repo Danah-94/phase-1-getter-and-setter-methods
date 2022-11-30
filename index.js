@@ -8,7 +8,7 @@ Hint: You will need to use Math.sqrt() Links to an external site.in your area se
 
 Formula for calculating Diameter: Diameter = radius • 2
 Formula for calculating Circumference: Circumference = π • diameter
-Formula for calculating Area : Area = π • radius sqaured
+Formula for calculating Area : Area = π • radius squared
 
 All instances of Circle should be able to calculate the diameter, circumference, and area based on the given radius. 
 All instances should also be able to set this.radius by setting a value to diameter, circumference, or area. */
